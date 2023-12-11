@@ -1,0 +1,17 @@
+- [ ] what is my understanding of the requirements?  What is the primary goal or objective?
+- [ ] what are the secondary goals/objectives?
+- [ ] what are the known design constraints?
+- [ ] what are the acceptance criteria for the solution (including non-functional)?
+- [ ] what assumptions am I making about these requirements and the system?
+- [ ] what are the unknowns?
+- [ ] what are the trade-offs I am deliberately making?
+- [ ] what areas/features are most likely to change over time?
+- [ ] what are anticipated/possible failure scenarios, and how should they be handled?
+- [ ] are there any special considerations related to security?
+- [ ] what are the existing areas impacted?
+- [ ] how will the design/architecture need to change?
+- [ ] how can I encapsulate current and future changes?
+- [ ] how should I test and validate the system?
+- [ ] what risks am I aware of?
+- [ ] what concerns do I have?
+- [ ] what are the specific steps to implementation, and what is there level of effort?

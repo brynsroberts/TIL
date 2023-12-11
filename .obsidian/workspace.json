@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf0da57459dd23d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/White paper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Pull request code review checklist.md",
+                "file": "Templates/White paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Pull request code review checklist.md",
+                "file": "Templates/White paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Pull request code review checklist.md"
+                "file": "Templates/White paper.md"
               }
             }
           }
@@ -193,8 +205,9 @@
   },
   "active": "d210f1107cd5a9e2",
   "lastOpenFiles": [
-    "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Templates/Pull request code review checklist.md",
+    "Templates/White paper.md",
+    "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Templates",
     "TIL.md",
     "Interfacing With External Systems",
