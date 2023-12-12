@@ -74,9 +74,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0581d52424290d63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effective Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f82903f51bb6f16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal/99% of sed, awk, grep, find, xargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68baf571e0f60409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Follow docker logs with a search term.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/White paper.md",
+                "file": "Follow docker logs with a search term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/White paper.md",
+                "file": "Follow docker logs with a search term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/White paper.md"
+                "file": "Follow docker logs with a search term.md"
               }
             }
           }
@@ -203,13 +239,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d210f1107cd5a9e2",
+  "active": "68baf571e0f60409",
   "lastOpenFiles": [
+    "Terminal/99% of sed, awk, grep, find, xargs.md",
+    "Follow docker logs with a search term.md",
+    "Docker",
+    "Effective Python.md",
+    "TIL.md",
+    "Terminal",
+    "Python/Effective Python",
+    "Python",
     "Templates/Pull request code review checklist.md",
     "Templates/White paper.md",
     "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Templates",
-    "TIL.md",
     "Interfacing With External Systems",
     "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
     "Communication"
