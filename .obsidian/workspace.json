@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Python/handle circular dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals.md",
+                "file": "Python/handle circular dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals.md",
+                "file": "Python/handle circular dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals.md"
+                "file": "Python/handle circular dependencies.md"
               }
             }
           }
@@ -227,14 +227,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3d3aafd4c418f26",
+  "active": "d210f1107cd5a9e2",
   "lastOpenFiles": [
-    "handle circular dependencies.md",
+    "Goals.md",
+    "Python/handle circular dependencies.md",
     "Effective Python.md",
     "Untitled",
     "Terminal/99% of sed, awk, grep, find, xargs.md",
     "TIL.md",
-    "Goals.md",
     "Docker/Follow docker logs with a search term.md",
     "Templates/White paper.md",
     "Templates/Pull request code review checklist.md",
