@@ -88,31 +88,19 @@
             }
           },
           {
-            "id": "8f82903f51bb6f16",
+            "id": "e3d3aafd4c418f26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal/99% of sed, awk, grep, find, xargs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68baf571e0f60409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Follow docker logs with a search term.md",
+                "file": "handle circular dependencies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Follow docker logs with a search term.md",
+                "file": "handle circular dependencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Follow docker logs with a search term.md",
+                "file": "handle circular dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Follow docker logs with a search term.md"
+                "file": "handle circular dependencies.md"
               }
             }
           }
@@ -239,18 +227,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68baf571e0f60409",
+  "active": "e3d3aafd4c418f26",
   "lastOpenFiles": [
-    "Terminal/99% of sed, awk, grep, find, xargs.md",
-    "Follow docker logs with a search term.md",
-    "Docker",
     "Effective Python.md",
+    "handle circular dependencies.md",
+    "Untitled",
+    "Terminal/99% of sed, awk, grep, find, xargs.md",
     "TIL.md",
+    "Goals.md",
+    "Docker/Follow docker logs with a search term.md",
+    "Templates/White paper.md",
+    "Templates/Pull request code review checklist.md",
+    "Docker",
     "Terminal",
     "Python/Effective Python",
     "Python",
-    "Templates/Pull request code review checklist.md",
-    "Templates/White paper.md",
     "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Templates",
     "Interfacing With External Systems",
