@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handle circular dependencies.md",
+                "file": "Goals.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "handle circular dependencies.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "handle circular dependencies.md",
+                "file": "Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handle circular dependencies.md"
+                "file": "Goals.md"
               }
             }
           }
@@ -229,8 +229,8 @@
   },
   "active": "e3d3aafd4c418f26",
   "lastOpenFiles": [
-    "Effective Python.md",
     "handle circular dependencies.md",
+    "Effective Python.md",
     "Untitled",
     "Terminal/99% of sed, awk, grep, find, xargs.md",
     "TIL.md",
