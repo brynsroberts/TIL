@@ -93,14 +93,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/handle circular dependencies.md",
+                "file": "Terminal/99% of sed, awk, grep, find, xargs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12ed27c053f78af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effective Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/handle circular dependencies.md",
+                "file": "Effective Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/handle circular dependencies.md",
+                "file": "Effective Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/handle circular dependencies.md"
+                "file": "Effective Python.md"
               }
             }
           }
@@ -227,14 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d210f1107cd5a9e2",
+  "active": "12ed27c053f78af8",
   "lastOpenFiles": [
+    "TIL.md",
     "Goals.md",
     "Python/handle circular dependencies.md",
+    "Python/Define a Root Exception to Insulate Callers from APIs.md",
+    "Terminal/99% of sed, awk, grep, find, xargs.md",
     "Effective Python.md",
     "Untitled",
-    "Terminal/99% of sed, awk, grep, find, xargs.md",
-    "TIL.md",
     "Docker/Follow docker logs with a search term.md",
     "Templates/White paper.md",
     "Templates/Pull request code review checklist.md",

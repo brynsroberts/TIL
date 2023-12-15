@@ -1,3 +1,4 @@
 - [x] 90 type hints 12/12/23
 - [x] 89 warning module
 - [x] 88
+- [x] 87
