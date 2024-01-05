@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb9e75191662bda",
+        "id": "394fa7f5b8b96853",
         "type": "tabs",
         "children": [
           {
-            "id": "8723812c6e4bcb0d",
+            "id": "2d8021b8258289c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/When to use try, except, else, finally.md",
+                "file": "Design Patterns/Observer Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/When to use try, except, else, finally.md",
+                "file": "Design Patterns/Observer Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/When to use try, except, else, finally.md",
+                "file": "Design Patterns/Observer Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/When to use try, except, else, finally.md"
+                "file": "Design Patterns/Observer Pattern.md"
               }
             }
           }
@@ -146,11 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8723812c6e4bcb0d",
+  "active": "2d8021b8258289c5",
   "lastOpenFiles": [
-    "Effective Python.md",
-    "Python/When to use try, except, else, finally.md",
+    "Design Patterns/Strategy Pattern.md",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Abstract Factory Pattern.md",
     "Design Patterns/Factory Method Pattern.md",
+    "Design Patterns/Observer Pattern.md",
+    "Terminal/99% of sed, awk, grep, find, xargs.md",
+    "Templates/White paper.md",
+    "Templates/Pull request code review checklist.md",
+    "Python/When to use try, except, else, finally.md",
+    "Effective Python.md",
     "Goals.md",
     "TIL.md",
     "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
@@ -158,13 +165,7 @@
     "Python/Define a Root Exception to Insulate Callers from APIs.md",
     "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Docker/Follow docker logs with a search term.md",
-    "Design Patterns/Decorator Pattern.md",
-    "Design Patterns/Observer Pattern.md",
-    "Design Patterns/Strategy Pattern.md",
     "Design Patterns",
-    "Terminal/99% of sed, awk, grep, find, xargs.md",
-    "Templates/White paper.md",
-    "Templates/Pull request code review checklist.md",
     "Docker",
     "Terminal",
     "Python/Effective Python",
