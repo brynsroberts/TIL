@@ -4,115 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71f837b7ff3f57af",
+        "id": "ebb9e75191662bda",
         "type": "tabs",
         "children": [
           {
-            "id": "53c10ccfb446898a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "28062cb19ad037cc",
+            "id": "8723812c6e4bcb0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78f637906df577c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TIL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e255a86347a9976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interfacing With External Systems/Be wary of \"unknown\" states.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d5b1639ca6351d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Pull request code review checklist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf0da57459dd23d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/White paper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0581d52424290d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Effective Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3d3aafd4c418f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terminal/99% of sed, awk, grep, find, xargs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12ed27c053f78af8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Effective Python.md",
+                "file": "Python/When to use try, except, else, finally.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effective Python.md",
+                "file": "Python/When to use try, except, else, finally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effective Python.md",
+                "file": "Python/When to use try, except, else, finally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effective Python.md"
+                "file": "Python/When to use try, except, else, finally.md"
               }
             }
           }
@@ -239,26 +146,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12ed27c053f78af8",
+  "active": "8723812c6e4bcb0d",
   "lastOpenFiles": [
-    "TIL.md",
+    "Effective Python.md",
+    "Python/When to use try, except, else, finally.md",
+    "Design Patterns/Factory Method Pattern.md",
     "Goals.md",
+    "TIL.md",
+    "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
     "Python/handle circular dependencies.md",
     "Python/Define a Root Exception to Insulate Callers from APIs.md",
-    "Terminal/99% of sed, awk, grep, find, xargs.md",
-    "Effective Python.md",
-    "Untitled",
+    "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Docker/Follow docker logs with a search term.md",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Observer Pattern.md",
+    "Design Patterns/Strategy Pattern.md",
+    "Design Patterns",
+    "Terminal/99% of sed, awk, grep, find, xargs.md",
     "Templates/White paper.md",
     "Templates/Pull request code review checklist.md",
     "Docker",
     "Terminal",
     "Python/Effective Python",
     "Python",
-    "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Templates",
     "Interfacing With External Systems",
-    "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
     "Communication"
   ]
 }
