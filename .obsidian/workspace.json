@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "394fa7f5b8b96853",
+        "id": "425cfa0b69ec6973",
         "type": "tabs",
         "children": [
           {
-            "id": "2d8021b8258289c5",
+            "id": "d8f74e9765d8a448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Design Patterns/Command Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Design Patterns/Command Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md",
+                "file": "Design Patterns/Command Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Observer Pattern.md"
+                "file": "Design Patterns/Command Pattern.md"
               }
             }
           }
@@ -146,23 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8021b8258289c5",
+  "active": "d8f74e9765d8a448",
   "lastOpenFiles": [
-    "Design Patterns/Strategy Pattern.md",
-    "Design Patterns/Decorator Pattern.md",
     "Design Patterns/Abstract Factory Pattern.md",
-    "Design Patterns/Factory Method Pattern.md",
+    "Design Patterns/Command Pattern.md",
+    "Design Patterns/Strategy Pattern.md",
     "Design Patterns/Observer Pattern.md",
+    "Goals.md",
+    "TIL.md",
+    "Effective Python.md",
+    "Design Patterns/Singleton Pattern.md",
+    "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
+    "Python/Define a Root Exception to Insulate Callers from APIs.md",
+    "Python/handle circular dependencies.md",
+    "Python/When to use try, except, else, finally.md",
+    "Design Patterns/Decorator Pattern.md",
+    "Design Patterns/Factory Method Pattern.md",
     "Terminal/99% of sed, awk, grep, find, xargs.md",
     "Templates/White paper.md",
     "Templates/Pull request code review checklist.md",
-    "Python/When to use try, except, else, finally.md",
-    "Effective Python.md",
-    "Goals.md",
-    "TIL.md",
-    "Communication/6 tiny wording tweaks to level up your communication as a software engineer.md",
-    "Python/handle circular dependencies.md",
-    "Python/Define a Root Exception to Insulate Callers from APIs.md",
     "Interfacing With External Systems/Be wary of \"unknown\" states.md",
     "Docker/Follow docker logs with a search term.md",
     "Design Patterns",

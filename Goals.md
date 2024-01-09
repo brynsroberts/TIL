@@ -1,6 +1,6 @@
 ### 2024
-- [ ] https://www.freecodecamp.org/news/the-docker-handbook
-	- [ ] currently on Docker Image Manipulation Basics
+- [x] https://www.freecodecamp.org/news/the-docker-handbook
+	- [x] currently on Docker Image Manipulation Basics
 - [ ] https://www.freecodecamp.org/news/the-kubernetes-handbook/
 - [ ] https://www.freecodecamp.org/news/the-nginx-handbook/
 - [ ] https://www.freecodecamp.org/news/how-to-install-arch-linux/
