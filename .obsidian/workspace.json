@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Adapter Pattern.md",
+                "file": "Design Patterns/Facade Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Adapter Pattern.md",
+                "file": "Design Patterns/Facade Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Adapter Pattern.md",
+                "file": "Design Patterns/Facade Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Patterns/Adapter Pattern.md"
+                "file": "Design Patterns/Facade Pattern.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d8f74e9765d8a448",
   "lastOpenFiles": [
-    "Goals.md",
     "Design Patterns/Adapter Pattern.md",
+    "Design Patterns/Facade Pattern.md",
+    "Goals.md",
     "Python/When to use try, except, else, finally.md",
     "Python/handle circular dependencies.md",
     "Python/Define a Root Exception to Insulate Callers from APIs.md",
