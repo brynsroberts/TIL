@@ -1,32 +1,32 @@
 awk:  
 * Awk is an entire programming language, but you usually just use it to print out a chunk of whitespace-separated text (linewise)  
   
-```  
+```bash  
 echo 'hello world' | awk '{ print $2 }'  
 ```  
   
 * You can print out multiple things:  
   
-```  
+```bash  
 echo '2023-02-27 cool-srvr HTTP/2.0 GET /all_the_things' | awk '{ print $1, $4, $5 }'  
 ```  
   
 grep:  
 * Search for text  
   
-```  
+```bash  
 (echo 'hello'; echo 'world') | grep orld  
 ```  
   
 * Negated with -v  
   
-```  
+```bash  
 (echo 'hello'; echo 'world') | grep -v orld  
 ```  
   
 * Regexp with -E  
   
-```  
+```bash  
 (echo 'hello'; echo 'world') | grep -E '^h'  
 ```  
   
@@ -35,13 +35,13 @@ sed:
   
 * Substitute first instance of character (note: linewise):  
   
-```  
+```bash  
 (echo 'hello'; echo 'world') | sed 's/l/_/'  
 ```  
   
 * Substitute instances of characters globally   
   
-```  
+```bash  
 (echo 'hello'; echo 'world') | sed 's/l/_/g'  
 ```  
   
@@ -49,7 +49,7 @@ find:
 * (I don't use this frequently but...)  
 * Recursively list files by extension:  
   
-```  
+```bash  
 find . -name *.go  
 ```  
   
@@ -58,13 +58,13 @@ xargs:
   
 * Split stdin and call echo each time with 1 arg:  
   
-```  
+```bash  
 (echo 'hello world'; echo 'hi mom') | xargs -n 1 echo  
 ```  
   
 * Split stdin and call echo each time with pairs of args:  
   
-```  
+```bash  
 (echo 'hello world'; echo 'hi mom') | xargs -n 2 echo  
 ```  
   
@@ -72,7 +72,7 @@ xargs:
   
 * Example: Open up all search results in vim (rg is one of many grep replacements). `rg -l` gives a list of filenames; convert those into `nvim <file1> <file2> ...`. `-o` fixes a quirky bug related to tty's  
   
-```  
+```bash  
 rg method_i_want_to_rename -l | xargs -o nvim  
 ```
 
